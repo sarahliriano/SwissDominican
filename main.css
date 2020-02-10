@@ -5,68 +5,94 @@
   }
 
   html{
-    font-size: 16px;
+    font-size: 14px;
   }
   body{
       font-family: Helvetica Neue, sans-serif;
   }
 h1{
-    text-decoration-color: #FFA4A4;
+    color: #FFA4A4;
+    font-size: 15rem;
+    font-weight: bold;
 }
 
 h2{
-    text-decoration-color: #005B99;
+    color: #005B99;
+    font-weight: normal;
+    font-size: 2rem;
 }
 
 h3{
-    text-decoration-color: #FFA4A4;
+    color: #FFA4A4;
+    font-weight: bold;
+    background-color: #FFE0E0;
+    font-size: 2rem;
 }
 
 .subtitle{
-    
+    background-color: #FFE0E0; 
 }
 .subtitle__content{
-    text-decoration-color: #FFA4A4;
+    color: #FFA4A4;
+    background-color: #FFE0E0;
+    font-weight: normal;
+    font-size: 1.5rem;
+    
 }
-.stanza1{
+.stanza1{    
+    background-color: #FFE0E0;
 
 }
 .stanza1__content{
-    text-decoration-color: #103269;
+    color: #103269;
+    background-color: #FFE0E0;
+    font-size: 1rem;
 }
 .stanza2{
-
+    background-color: #FFE0E0;
 }
 .stanza2__content{
-    
+    color: #103269;
+    background-color: #FFE0E0;
+    font-size: 1rem;
 }
 .stanza3{
-
+    background-color: #FFE0E0;
 }
 .stanza3__content{
-    
+    color: #103269;
+    background-color: #FFE0E0;
+    font-size: 1rem;
 }
 .stanza4{
-
+    background-color: #FFE0E0;
 }
 .stanza4__content{
-    
+    color: #103269;
+    background-color: #FFE0E0;
+    font-size: 1rem;
 }
 .stanza5{
-
+    background-color: #FFE0E0;
 }
 .stanza5__content{
-    
+    color: #103269;
+    background-color: #FFE0E0;
+    font-size: 1rem;
 }
 .stanza6{
-
+    background-color: #FFE0E0;
 }
 .stanza6__content{
-    
+    color: #103269;
+    background-color: #FFE0E0;
+    font-size: 1rem;
 }
 .stanza7{
-
+    background-color: #FFE0E0;
 }
 .stanza7__content{
-    
+    color: #103269;
+    background-color: #FFE0E0;
+    font-size: 1rem;
 }

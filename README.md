@@ -1,12 +1,12 @@
 ## Swiss Dominican
 
 
-**Research**
+#Research
 Before starting the homework I already had a fairly good idea of what was needed so I started by doing some research to refresh my knowledge on Swiss design and grids. The "Web Design Process Guide" was also very helpful with the history of grids and the development information.
 
 I found myself gravitating towards the very strict symmetrical grids. I was also feeling a little homesick this week so I decided to make the content of my poster about my home country (The Dominican Republic). I used a famous poem about the DR as my content which later on would present a new set of difficulties.
 
-**Design**
+#Design
 I set out to do sketches and landed on one I thought would have good potential. I didn't want to spend too much time in the design stage because I know my challenge lies in the developing portion of the homework.
 
 ![img](Public/IMG_4037.JPG)
@@ -27,7 +27,7 @@ I proceeded to make a quick Style Guide for my chosen option before going ahead 
 
 ![img](Public/Swiss_Dominican_Style_Guide.001.jpeg) ![img](Public/Swiss_Dominican_Style_Guide.002.jpeg)
 
-**Development**
+#Development
 I considered making changes to the file we had started in class but I wanted to make sure that I understood the terminal + commands + git, etc. So I started from scratch by setting up all my files and a basic html structure.
 
 My html had a bit of an issue in the beginning when I started adding my content because it is in a different language that requires accents in order to be written properly so I got a lot of this:

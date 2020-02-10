@@ -10,10 +10,60 @@
   body{
       font-family: Helvetica Neue, sans-serif;
   }
+.flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50vh;
+}
+
+.flex-containerB{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20vh;
+    background-color: #FFE0E0;
+}
+.flex-containerC{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20vh;
+    background-color: #FFE0E0;
+}
+
+.flex-containerD{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20vh;
+    background-color: #FFE0E0;
+}
+
+.flex-containerE{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20vh;
+    background-color: #FFE0E0;
+}
+
+.leaf{
+    height: 80vh;
+}
+
 h1{
     color: #FFA4A4;
     font-size: 15rem;
     font-weight: bold;
+    padding-right: 9rem;
+}
+
+.head2{
+    display: flex;
+    align-items: right;
+    justify-content: space-between;
+    padding-right: 10rem;
 }
 
 h2{
@@ -27,6 +77,12 @@ h3{
     font-weight: bold;
     background-color: #FFE0E0;
     font-size: 2rem;
+}
+
+.circle{
+    background-color: #FFE0E0;
+    height: 0.1rem;
+    padding-right: 11rem;
 }
 
 .subtitle{

@@ -37,3 +37,5 @@ My html had a bit of an issue in the beginning when I started adding my content 
 I later figured out how to add accents properly on html with "& + letter + grave/acute/tilde" I also learned how to break lines within a paragraph with "<br>" in order to break my lines properly like the poem warrants.
 
 I re-read the requirements for the homework and found out I had to organize my files and read my css and js files from external as opposed to what we learned in class so I did that before starting any style edits.
+
+After that was done I started diving into applying styles to my site but realized that all my divs needed classes in order to have styles applied to them individually. So I started adding those.
